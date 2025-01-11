@@ -7,7 +7,7 @@
 ## 🌟 My Projects
 - 📚 **Capstone-v2**: Exploring advanced features in Python.
 - 🔒 **Symmetric Ciphers**: Collaborated in making this simple app. A Cryptography implementation for secure communication.
-- 🎹 **Piano Application**: Collaborated on a online music educational application.
+- 🎹 **Piano Application**: Collaborated on an online music educational application.
 
 ## 💻 Skills
 - **Programming Languages**: Python, JavaScript, PHP
