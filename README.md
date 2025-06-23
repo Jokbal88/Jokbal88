@@ -1,18 +1,12 @@
-﻿# Hi there, I'm Ethan Cliff Dela Cruz 👋
+﻿# Hi there, I'm Ethan Cliff Dela Cruz 
 
-## 🚀 About Me
-- 💻 Beginner in JavaScript, ReactJS, Python, CakePHP, and TailwindCSS.
-- 🌟 I enjoy creating innovative tech solutions and exploring new frameworks.
+## About Me
+- Currently learning in JavaScript, ReactJS, Python, CakePHP, and TailwindCSS.
+- I enjoy creating innovative tech solutions and exploring new frameworks.
 
-## 🌟 My Projects
-- 📚 **Capstone-v2 and v3**: Exploring advanced features in Python and additional tech stack.
-- 🔒 **Symmetric Ciphers**: Collaborated in making this simple app. A Cryptography implementation for secure communication.
-- 🎹 **Piano Application**: Collaborated on an online music educational application.
-
-## 💻 Skills
-- **Programming Languages**: Python, JavaScript, PHP
-- **Frameworks**: ReactJS, Django, CakePHP
-- **Tools**: Git, MySQL, XAMPP, WebSocket (RatchetPHP)
+## My Projects
+- **Capstone-v2 and v3**: Exploring advanced features in Python and additional tech stack.
+- **Symmetric Ciphers**: Collaborated in making this simple app. A Cryptography implementation for secure communication.
 
 ## 📫 Let's Connect!
 - 💼 LinkedIn: [https://www.linkedin.com/in/ethan-cliff-dela-cruz-47597b339/]
