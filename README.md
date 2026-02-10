@@ -1,15 +1,37 @@
-﻿# Hi there, I'm Ethan Cliff Dela Cruz 
+# Ethan Cliff Dela Cruz
 
-## About Me
-- Currently learning in JavaScript, ReactJS, Python, CakePHP, and TailwindCSS.
-- I enjoy creating innovative tech solutions and exploring new frameworks.
+## Overview
+Quality Assurance Engineer and Web Application Developer with hands-on experience in web systems, testing, and server-side development. Background includes system setup, debugging, and maintaining web applications across different environments.
 
-## My Projects
-- **Capstone-v2 and v3**: Exploring advanced features in Python and additional tech stack.
-- **Symmetric Ciphers**: Collaborated in making this simple app. A Cryptography implementation for secure communication.
+---
 
-## 📫 Let's Connect!
-- 💼 LinkedIn: [https://www.linkedin.com/in/ethan-cliff-dela-cruz-47597b339/]
+## Technical Experience
 
-## 📊 GitHub Stats
-![Ethan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jokbal88&show_icons=true&theme=dark)
+### Frontend
+- HTML  
+- CSS  
+- Vue JS 3  
+
+### Backend  
+- Python  
+- JavaScript (Node.js)  
+
+### Frameworks & Libraries
+- Express.js  
+- Django  
+
+### Databases
+- MySQL  
+- MongoDB
+
+### Tools & Technologies
+- Git  
+
+---
+
+## Operating Systems
+- Windows  
+- Linux (Ubuntu)
+
+---
+
