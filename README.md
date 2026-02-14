@@ -19,6 +19,7 @@ Quality Assurance Engineer and Web Application Developer with hands-on experienc
 ### Frameworks & Libraries
 - Express.js  
 - Django  
+- Nuxt
 
 ### Databases
 - MySQL  
@@ -34,4 +35,5 @@ Quality Assurance Engineer and Web Application Developer with hands-on experienc
 - Linux (Ubuntu)
 
 ---
+
 
